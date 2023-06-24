@@ -1,0 +1,45 @@
+.service-logo img{
+    width: 58px;
+    height: 58px;
+    object-fit: contain;
+}
+.service-logo{
+    position: relative;
+}
+.service-logo::after{
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    right: 0px;
+    width: 98%;
+    height: 2px;
+    background-color: #c5c6c9;
+    transition: width 0.5s linear 0.2s;
+    transition: all 0.2s ease-in-out ;
+
+}
+.service-logo:hover:after{
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    right: 0px;
+    width: 80px;
+    height: 2px;
+    background-color: #1dbf73;
+    transform: translateX( 10% );
+
+
+
+
+}
+.service-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.service-txt p{
+font-weight: 500;
+margin: 20px 0px;
+}

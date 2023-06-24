@@ -1,0 +1,35 @@
+.owner-item{
+    display: flex;
+    width: 84rem;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.owner-right{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.owner-left{
+width: 36%;
+}
+.ortop{
+    display: flex;
+align-items: center;
+}
+.ortop-left{
+    color: #74767e;
+    font-size: 1.4rem;
+  
+}
+.ortop-right img{
+    width: 120px;
+    height: 90px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+.orbtm{
+    color: #003912;
+    font-size: 2rem;
+    font-family: DomaineDisplay,Helvetica Neue,Helvetica,Arial,sans-serif;
+}

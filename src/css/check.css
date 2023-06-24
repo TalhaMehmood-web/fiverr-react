@@ -1,0 +1,25 @@
+.top{
+    display: flex;
+    align-items: center;
+
+}
+.top p{
+    font-weight: 700;
+    font-size: 19px;
+    color: #404145;
+ 
+}
+.top i{
+    margin-right: 7px;
+    font-size: 20px;
+}
+.bottom p , .top i{
+    color:#62646a;
+}
+.bottom p{
+    font-weight: 600;
+    font-size: 18px;
+
+ line-height: 32px;
+ margin-bottom: 7px;
+}

@@ -1,0 +1,13 @@
+.uni-btn{
+    background-color: #1dbf73;
+    padding: 10px 10px;
+    border: 1px solid #009e54;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border-radius: 3px;
+}
+.uni-btn:hover{
+    background-color: #109758;
+}

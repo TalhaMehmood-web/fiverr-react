@@ -1,0 +1,24 @@
+.trust {
+    background: #efefefd4;
+    height: 20vh;
+    
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.trust ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trust ul li{
+    list-style: none;
+    margin: 0px 2rem;
+}
+.trust-txt{
+    color: #b5b6ba;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
