@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fiverr-react/static/css/main.9f9e2a9a.css",
+    "main.js": "/fiverr-react/static/js/main.402e8e5a.js",
+    "static/js/787.438559c0.chunk.js": "/fiverr-react/static/js/787.438559c0.chunk.js",
+    "index.html": "/fiverr-react/index.html",
+    "main.9f9e2a9a.css.map": "/fiverr-react/static/css/main.9f9e2a9a.css.map",
+    "main.402e8e5a.js.map": "/fiverr-react/static/js/main.402e8e5a.js.map",
+    "787.438559c0.chunk.js.map": "/fiverr-react/static/js/787.438559c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f9e2a9a.css",
+    "static/js/main.402e8e5a.js"
+  ]
+}
