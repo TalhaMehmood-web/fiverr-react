@@ -1,18 +1,20 @@
 
 import './App.css';
+// import Pagination from './components/Pagination/Pagination';
+import Board from './components/Tic-Tac-Toe/Board';
 
-import Body from './components/Body';
+
 
 function App() {
   return (
-<>
-
-
-<Body/>
-
-
-</>
-
+    <div className='flex w-full justify-center items-center my-[10rem] flex-col'>
+      <p className='text-4xl font-bold mb-8 ' >  TIC TAC TOE</p>
+      <Board />
+    </div>
+    // <div className='w-full flex justify-center items-center flex-col '>
+    //   <p className='text-3xl font-bold mb-6' >Pagination</p>
+    //   <Pagination />
+    // </div>
   );
 }
 
